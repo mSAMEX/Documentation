@@ -6,6 +6,7 @@
 msamex.com  
 <https://www.msamex.com>  
 hello@msamex.com  
+API URL: <https://xe.msamex.com>
 
 
 ### Security
