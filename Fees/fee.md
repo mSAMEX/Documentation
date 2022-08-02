@@ -7,13 +7,9 @@ At 00:00 AM (UTC+8) every day, mSamex will snapshot users’ SAMX holdings and t
 Users need to meet any one of the listed requirements to reach a specific Tier level and enjoy the corresponding trading fees.
 User’s Tier level and corresponding trading fees are in effect for 24 hours, and automatically renewed daily.
 
-Level	         30d Trade Volume (USDT)	and/or	SAMX Balance	    Maker / Taker
-
-Regular User   < 200,000 USDT	or	      ≥ 0 SAMX	            0.1000% / 0.1000%	 
-
-VIP 1          ≥ 200,000 USDT	and	      ≥ 250000 SAMX	        0.0900% / 0.1000%	 
-
-VIP 2          ≥ 500,000 USDT	and	      ≥ 1000000 SAMX	      0.0800% / 0.1000%	 
-
-VIP 3          ≥ 1,000,000 USDT	and	    ≥ 2500000 SAMX	      0.0700% / 0.1000%	 
-
+30- Day Volume (USD)	Maker	Taker
+$0 - $50,000	0.2%	0.21%
+$50,001 - $100,000	0.185%	0.195%
+$100,001 - $250,000	0.175%	0.185%
+$250,001 - $500,000	0.165%	0.175%
+$500,000+	0.155%	0.165%
